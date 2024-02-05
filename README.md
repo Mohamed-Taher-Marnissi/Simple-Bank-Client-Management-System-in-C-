@@ -1,6 +1,9 @@
 # Bank Client Management System 
 
-## Features
+## Technologies
+I use vector , struct , enum , I check the permissions with **The Bitwise Operator**, I do Crud Operation on Files
+
+Features
 Show Client List: Display a list of all clients.
 Add New Client: Add a new client to the system.
 Delete Client: Delete an existing client from the system.
@@ -18,8 +21,8 @@ Add New User: Add a new user to the system.
 Delete User: Delete an existing user from the system.
 Update User: Update information about a user.
 Find User: Search for a user by username.
-
 Logout: Exit the program.
+
 
 
 
