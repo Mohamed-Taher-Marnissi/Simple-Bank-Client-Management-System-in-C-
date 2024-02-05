@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\Projects\ProjectC\C++\Programming Advices\Problem solving 3\Bank Project\Source.cpp(68,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Projects\ProjectC\C++\Programming Advices\Problem solving 3\Bank Project\Source.cpp(874): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+D:\Projects\ProjectC\C++\Programming Advices\Problem solving 3\Bank Project\Source.cpp(1023): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+D:\Projects\ProjectC\C++\Programming Advices\Problem solving 3\Bank Project\Source.cpp(916): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+D:\Projects\ProjectC\C++\Programming Advices\Problem solving 3\Bank Project\Source.cpp(996): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+D:\Projects\ProjectC\C++\Programming Advices\Problem solving 3\Bank Project\Source.cpp(956): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  Bank Project.vcxproj -> D:\Projects\ProjectC\C++\Programming Advices\Problem solving 3\Bank Project\x64\Debug\Bank Project.exe
